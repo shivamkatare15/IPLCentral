@@ -1,4 +1,4 @@
-# IPL live score extension
+# IPL live score Chrome extension
 This is the google chrome extension which helps you to check the score of the IPL Matches without switching tabs and tediously typing your favorite teams name again and again. 
 
 ## Steps to run the extension(Locally):
